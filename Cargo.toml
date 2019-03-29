@@ -1,0 +1,8 @@
+[package]
+name = "ngram"
+version = "0.1.0"
+authors = ["Sorami Hisamoto <s@89.io>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2"
